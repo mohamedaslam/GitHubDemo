@@ -21,7 +21,8 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
         imagePicker.delegate = self
         //Testting code added
         //Test GIt 1
-        //TEST GIT2 
+        //TEST GIT2
+        //Test GIT3
     }
     
     override func didReceiveMemoryWarning() {
