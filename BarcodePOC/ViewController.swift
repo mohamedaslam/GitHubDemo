@@ -19,6 +19,10 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
     override func viewDidLoad() {
         super.viewDidLoad()
         imagePicker.delegate = self
+        //Testting code added
+        //Test GIt 1
+        //TEST GIT2
+        //Test GIT3
     }
     
     override func didReceiveMemoryWarning() {
