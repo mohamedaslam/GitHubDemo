@@ -27,6 +27,8 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
         //Test GIT5
         //Test GIT6
         //Test GIT7
+        
+        //Test GIT8
     }
     
     override func didReceiveMemoryWarning() {
